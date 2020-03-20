@@ -1,3 +1,4 @@
 <!--pages/home/home.wxml-->
-<text>hello world</text>
-<button>点击</button>
+<!-- 初始小程序 -->
+<view>1. 数据绑定</view>
+<view>hello {{name}}</view>
